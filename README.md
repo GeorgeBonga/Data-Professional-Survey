@@ -10,7 +10,7 @@
 
 ## Relevant Links
 - [View Live Tableau Dashboard](https://public.tableau.com/app/profile/george.bonga/viz/DataProfessionalSurvey_17401252043710/DataProfessionalSurveyDashboard)
-- [Download Power BI Dashboard](https://github.com/GeorgeBonga/Data-Professional-Survey/blob/main/Data%20Professional%20Survey.pbix)
+- [Download Power BI Dashboard](https://github.com/GeorgeBonga/Data-Professional-Survey/blob/main/Data/Data%20Professional%20Survey.pbix)
 
 
 ## Table of Contents
@@ -71,8 +71,8 @@ The dataset consists of survey responses from **610 data professionals**, captur
 
  
   <p align="center">
-  <img src="https://github.com/GeorgeBonga/Data-Professional-Survey/blob/main/Analysisone.PNG" />
-  <img src="https://github.com/GeorgeBonga/Data-Professional-Survey/blob/main/Analysistwo.PNG" />
+  <img src="Data/Analysisone.PNG" />
+  <img src="Data/Analysistwo.PNG" />
 </p>
 
 
@@ -85,7 +85,7 @@ By addressing salary gaps and promoting career growth opportunities, organizatio
 
 ## Dashboard Overview
 
- <img src="DataProfessionalSurvey.png" />
+ <img src="Data/DataProfessionalSurvey.png" />
 
 
 
