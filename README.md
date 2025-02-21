@@ -85,7 +85,7 @@ By addressing salary gaps and promoting career growth opportunities, organizatio
 
 ## Dashboard Overview
 
- <img src="DataProfessionalSurvey.pdf" />
+ <img src="DataProfessionalSurvey.png" />
 
 
 
