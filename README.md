@@ -84,7 +84,9 @@ By addressing salary gaps and promoting career growth opportunities, organizatio
 
 
 ## Dashboard Overview
-[embed]https://github.com/GeorgeBonga/Data-Professional-Survey/blob/main/Data%20Professional%20Survey.pdf)[/embed]
+
+ <img src="DataProfessionalSurvey.pdf" />
+
 
 
 
