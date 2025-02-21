@@ -10,13 +10,12 @@
 
 ## Relevant Links
 - [View Live Tableau Dashboard](https://public.tableau.com/app/profile/george.bonga/viz/DataProfessionalSurvey_17401252043710/DataProfessionalSurveyDashboard)
-- [Download Power BI Dashboard](./assets/Data_Professional_Survey.pdf)
-- [GitHub Repository](https://github.com/GeorgeBonga/Data-Professional-Survey)
+- [Download Power BI Dashboard](https://github.com/GeorgeBonga/Data-Professional-Survey/blob/main/Data%20Professional%20Survey.pbix)
 
 
 ## Table of Contents
 - [Background & Overview](#background--overview)
-- [Structure Overview](#structure-overview)
+- [Data Structure Overview](#data-structure-overview)
 - [Executive Summary](#executive-summary)
 
 ## Background & Overview
@@ -72,8 +71,8 @@ The dataset consists of survey responses from **610 data professionals**, captur
 
  
   <p align="center">
-  <img src="https://github.com/GeorgeBonga/Data-Professional-Survey/blob/main/Analysisone.PNG" width="200"/>
-  <img src="https://github.com/GeorgeBonga/Data-Professional-Survey/blob/main/Analysistwo.PNG" width="200"/>
+  <img src="https://github.com/GeorgeBonga/Data-Professional-Survey/blob/main/Analysisone.PNG" />
+  <img src="https://github.com/GeorgeBonga/Data-Professional-Survey/blob/main/Analysistwo.PNG" />
 </p>
 
 
@@ -82,4 +81,12 @@ The dataset consists of survey responses from **610 data professionals**, captur
 The survey results reveal significant trends in the data industry. A majority of professionals transitioned into data careers from other fields. Salary levels vary widely, with an average yearly salary of **$93,780**. Job satisfaction is largely influenced by salary, work-life balance, and opportunities for growth. While **work-life balance is relatively positive**, salary dissatisfaction remains a concern. 
 
 By addressing salary gaps and promoting career growth opportunities, organizations can enhance job satisfaction and industry inclusivity.
+
+
+## Dashboard Overview
+(https://github.com/GeorgeBonga/Data-Professional-Survey/blob/main/Data%20Professional%20Survey.pdf)
+
+
+
+
 
