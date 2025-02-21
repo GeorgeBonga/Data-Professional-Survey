@@ -72,10 +72,8 @@ The dataset consists of survey responses from **610 data professionals**, captur
 
  
   <p align="center">
-  <img src="https://raw.githubusercontent.com/GeorgeBonga/SyntheticDcalculator/main/src/1.png" width="200"/>
-  <img src="https://raw.githubusercontent.com/GeorgeBonga/SyntheticDcalculator/main/src/3.png" width="200"/>
-  <img src="https://raw.githubusercontent.com/GeorgeBonga/SyntheticDcalculator/main/src/5.png" width="200"/>
-  <img src="https://raw.githubusercontent.com/GeorgeBonga/SyntheticDcalculator/main/src/7.png" width="200"/>
+  <img src="https://github.com/GeorgeBonga/Data-Professional-Survey/blob/main/Analysisone.PNG" width="200"/>
+  <img src="https://github.com/GeorgeBonga/Data-Professional-Survey/blob/main/Analysistwo.PNG" width="200"/>
 </p>
 
 
