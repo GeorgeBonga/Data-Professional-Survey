@@ -1,14 +1,5 @@
 # Data Professional Survey Analysis
 
-## Background & Overview
-The data industry has experienced unprecedented growth in recent years, with organizations increasingly recognizing the value of data-driven decision-making. This comprehensive survey of 610 data professionals provides crucial insights into industry trends, career paths, and job satisfaction levels.
-
-### Key Objectives
-- Understanding the current landscape of data professional roles and responsibilities.
-- Analyzing salary distributions across different data-related positions.
-- Evaluating factors contributing to job satisfaction and career development.
-- Identifying trends in career transitions into the data field.
-- 
 ## Tools Used
 - Microsoft Excel
 - Power BI
@@ -22,6 +13,20 @@ The data industry has experienced unprecedented growth in recent years, with org
 - [Download Power BI Dashboard](./assets/Data_Professional_Survey.pdf)
 - [GitHub Repository](https://github.com/GeorgeBonga/Data-Professional-Survey)
 
+
+## Table of Contents
+- [Background & Overview](#background--overview)
+- [Structure Overview](#structure-overview)
+- [Executive Summary](#executive-summary)
+
+## Background & Overview
+The data industry has experienced unprecedented growth in recent years, with organizations increasingly recognizing the value of data-driven decision-making. This comprehensive survey of 610 data professionals provides crucial insights into industry trends, career paths, and job satisfaction levels.
+
+### Key Objectives
+- Understanding the current landscape of data professional roles and responsibilities.
+- Analyzing salary distributions across different data-related positions.
+- Evaluating factors contributing to job satisfaction and career development.
+- Identifying trends in career transitions into the data field.
 
 
 
@@ -64,6 +69,16 @@ The dataset consists of survey responses from **610 data professionals**, captur
   1. Python
   2. SQL
   3. R
+
+ 
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/GeorgeBonga/SyntheticDcalculator/main/src/1.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/GeorgeBonga/SyntheticDcalculator/main/src/3.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/GeorgeBonga/SyntheticDcalculator/main/src/5.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/GeorgeBonga/SyntheticDcalculator/main/src/7.png" width="200"/>
+</p>
+
+
 
 ## Executive Summary
 The survey results reveal significant trends in the data industry. A majority of professionals transitioned into data careers from other fields. Salary levels vary widely, with an average yearly salary of **$93,780**. Job satisfaction is largely influenced by salary, work-life balance, and opportunities for growth. While **work-life balance is relatively positive**, salary dissatisfaction remains a concern. 
